@@ -1,1 +1,2 @@
+#!/bin/bash
 sudo apt update && sudo apt install gobuster -y && sudo pip install python3-nmap && wget https://raw.githubusercontent.com/PuffyOwlGod/nmap-gobuster-scan-py/main/AutomatePentestingScript.py && chmod 744 AutomatePentestingScript.py && sudo ./AutomatePentestingScript.py
